@@ -38,3 +38,9 @@
 #     else:
 #         print("ใส่เลข 1 หรือ 2 เท่านั้น")
 #         continue
+print("ไอป๋องไม่ตั้งใจเรียน")
+
+calories = 0
+for i in range(3):
+    calories += 100
+print("Total calories:", calories)
